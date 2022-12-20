@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DoneWithIt",
-    "slug": "DoneWithIt",
+    "name": "NFT-Market",
+    "slug": "NFT-Market",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./app/assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./app/assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,11 +20,11 @@
     "ios": {
       "supportsTablet": true
     },
-    "description":" my First Expo App",
+    "description":"Buy, store, collect NFTS, exchange & earn crypto. Join 25+ million people using ProNef Marketplace.",
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./app/assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#000"
       }
     },
     "web": {
